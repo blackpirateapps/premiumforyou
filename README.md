@@ -10,7 +10,7 @@ All prices are in Indian rupees.
 * 10 Accounts (Login Gurantee) - 150/-
 ### Amazon Prime Video
 Only prime video will work. Prime will be on `amazon.com` and not on `amazon.in` . Indian content will be avilable. 
-* One Month With gurantee - 30/- <span style="color:blue">(Single Login / **Email pass not changeable**)</span>.
+* One Month With gurantee - 30/- (Single Login / **Email pass not changeable**).
 * 3 Months with gurantee - 50/- (Single Login / **Email pass not changeable**).
 * 6 Months with gurantee - 100/- (Single Login / **Email pass not changeable**) . 
-* 6 Months with gurantee - 250/- (Unlimited Login / **Your own personal Account, everything changeable**)
+* 6 Months with gurantee - 250/- <span style="color:blue">(Unlimited Login / **Your own personal Account, everything changeable**)</span>.
