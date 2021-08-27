@@ -1,5 +1,5 @@
 ## List of Domains 
-These all are available for 80/- each. See all the prices [here](readme.md)
+These all are available for 80/- each. See all the prices [here](README.md#domains)
 
 
 `.BIKE`
