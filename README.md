@@ -14,3 +14,10 @@ Only prime video will work. Prime will be on `amazon.com` and not on `amazon.in`
 * 3 Months with gurantee - 50/- (Single Login / **Email pass not changeable**).
 * 6 Months with gurantee - 100/- (Single Login / **Email pass not changeable**) . 
 * 6 Months with gurantee - 250/- <span style="color:blue">(Unlimited Login / **Your own personal Account, everything changeable**)</span>.
+### Domains
+You will have full access in all of these domains. 
+* Single `.tech` or `.me` domain - 100/- 
+* Single different types (See all the list of domains [here.](domain-list.md) ) of domains - 80/-
+* 2 different types of domains (See all the list of domains [here.](domain-list.md) ) - 140/-
+* 5 different types of domains (See all the list of domains [here.](domain-list.md) ) - 300/-
+* 10 different types of domains (See all the list of domains [here.](domain-list.md) ) - 500/-
