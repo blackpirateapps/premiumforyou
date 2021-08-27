@@ -9,4 +9,4 @@ All prices are in Indian rupees.
 * 5 Accounts (Login Gurantee) - 80/-
 * 10 Accounts (Login Gurantee) - 150/-
 ### Amazon Prime Video
-Only prime video will work. Prime will be on `amazon.com` and not on `amazon.in` 
+Only prime video will work. Prime will be on `amazon.com` and not on `amazon.in` . 
