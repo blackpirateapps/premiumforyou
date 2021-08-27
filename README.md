@@ -21,3 +21,23 @@ You will have full access in all of these domains.
 * 2 different types of domains (See all the list of domains [here.](domain-list.md) ) - 140/-
 * 5 different types of domains (See all the list of domains [here.](domain-list.md) ) - 300/-
 * 10 different types of domains (See all the list of domains [here.](domain-list.md) ) - 500/-
+### Indian OTT platforms
+* Zee5
+* Altbalaji
+* Voot
+* Crunchyroll
+### Github Student Devloper Pack
+* Single Account - 300/-
+* Contact in group if you want to buy in bulk. Discounts available.
+### Edu emails
+* Full access private - 250/- 
+### Microsoft Office 365 
+* Login Gurantee Single account - 20/- 
+* Guranteed account 6 Months - 200/-
+* For bulk contact admins.
+### Spotify Premium
+Currently out of stock.
+### Google TeamDrive 
+* 100/- for single teamdrive on your personal account. 
+
+
